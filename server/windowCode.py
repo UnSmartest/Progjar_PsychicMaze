@@ -38,4 +38,4 @@ while True:
             exit()
     
     pygame.display.update()
-    clock.tick(60) # 60FPS
+    clock.tick(FPS) # 60FPS
