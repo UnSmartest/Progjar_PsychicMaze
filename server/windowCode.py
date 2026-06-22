@@ -14,6 +14,8 @@
 # Also why does vsc still say "import pygame could not be resolved"
 # Brah I should visit Isabel's apartment to work on this together
 
+# test
+
 import pygame
 from sys import exit
 from shared.constants import(
